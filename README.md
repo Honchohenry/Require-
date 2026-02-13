@@ -18,7 +18,7 @@ contract SmartWalletContract {
       }
 
 }
-
+# Assert 
 contract AssertEample {
 
     mapping(address => uint8) public balanceReceived;
